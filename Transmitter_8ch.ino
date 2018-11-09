@@ -35,7 +35,6 @@ void resetData()
   data.AUX3= 0;
   data.AUX4= 0;
 }
-
 void setup()
 {
   pinMode(4, INPUT_PULLUP);
